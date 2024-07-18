@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/fh_ndiritu" target="blank"><img src="https://img.shields.io/twitter/follow/fh_ndiritu?logo=twitter&style=for-the-badge" alt="fh_ndiritu" /></a> </p>
 
-- 🔭 I’m currently working on [IGNTD Sparx Platform](https://www.igntd.com/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/francis-karuri/](https://www.linkedin.com/in/francis-karuri/)
 
