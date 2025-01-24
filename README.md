@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis Karuri</h1>
-<h3 align="center">A Ruby on Rails and React Developer from Nairobi, Kenya</h3>
+<h3 align="center">Rubyist, AI and Coffee</h3>
 
 <p align="left"> <a href="https://twitter.com/fh_ndiritu" target="blank"><img src="https://img.shields.io/twitter/follow/fh_ndiritu?logo=twitter&style=for-the-badge" alt="fh_ndiritu" /></a> </p>
 
