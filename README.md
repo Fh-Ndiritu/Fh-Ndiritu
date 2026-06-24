@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Francis Karuri</h1>
-<h3 align="center">Rubyist, AI and Coffee</h3>
+# Hi, I'm Francis Karuri 👋
 
-<p align="left"> <a href="https://twitter.com/fh_ndiritu" target="blank"><img src="https://img.shields.io/twitter/follow/fh_ndiritu?logo=twitter&style=for-the-badge" alt="fh_ndiritu" /></a> </p>
+Founding Engineer & Tech Lead @Audemic · **Ruby on Rails + Python** · **Founder of [Hadaa](https://hadaa.app)** ·  I architect and ship AI/ML products end to end.
 
+From REST APIs and ML extraction pipelines to agentic rendering engines, recommendation systems, and the cloud infrastructure that runs them — I build production AI, not demos.
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/francis-karuri/](https://www.linkedin.com/in/francis-karuri/)
+### 🔭 What I work on
+- **AI & ML in production** — agentic pipelines, inpainting, vision models, AI-augmented OCR, RAG, semantic / vector search, recommendation engines
+- **Ruby on Rails at scale** — high-traffic optimization, Sidekiq background processing, Rails 4 → 8 upgrades, HIPAA-compliant systems
+- **Full product delivery** — Hotwire / Turbo / Stimulus + React, CI/CD, AWS & GCP, Docker
 
-- 💬 Ask me about **Ruby, Rails and React**
+As **Founding Engineer & Technical Lead at [Audemic](https://www.audemic.io)** I own the technical direction of the AI extraction and recommendation products, and drove 20%+ revenue growth through B2B API integrations.
 
-- 📫 How to reach me **fhndiritu@gmail.com**
+### 🛠️ Tech I work with
+`Ruby on Rails` · `Python` · `PostgreSQL` · `Sidekiq` · `Hotwire` · `Turbo` · `Stimulus` · `React` · `TailwindCSS` · `AWS` · `GCP` · `Docker` · `RSpec` · `Vector Search / RAG` · `LLMs` · `Agentic Systems`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fh_ndiritu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fh_ndiritu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/francis-karuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis-karuri" height="30" width="40" /></a>
+### 🌍 Community
+- Organizing committee, **RubyConf Africa** — the continent's largest Ruby conference
+- Organizer, **African Ruby Community Free Bootcamp** — mentoring graduates into Rails careers
 
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-Rails | React | Heroku | Postgres | AWS | GCP | AI | Ruby | Stimulus | HotWire
+### 📫 Reach me
+- ✉️ fhndiritu@gmail.com
+- 💼 [linkedin.com/in/francis-karuri](https://www.linkedin.com/in/francis-karuri/)
+- 🐦 [@fh_ndiritu](https://x.com/fh_ndiritu)
+- 📝 I write on Ruby, Rails, AI & agentic systems — ask me anything about them
