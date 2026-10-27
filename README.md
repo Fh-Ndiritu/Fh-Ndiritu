@@ -23,3 +23,4 @@ As **Founding Engineer & Technical Lead at [Audemic](https://www.audemic.io)** I
 - 💼 [linkedin.com/in/francis-karuri](https://www.linkedin.com/in/francis-karuri/)
 - 🐦 [@fh_ndiritu](https://x.com/fh_ndiritu)
 - 📝 I write on Ruby, Rails, AI & agentic systems — ask me anything about them
+- Hobby Project at https://clad9.app/
